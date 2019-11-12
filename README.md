@@ -13,3 +13,5 @@ Le but de notre projet est donc de créer une application pour détecter des
 communautés de profils Twitter, et réaliser la visualisation de ces communautés
 Twitter.<br>
 
+<h2>Langages de programmation</h2>
+JAVA SQL
